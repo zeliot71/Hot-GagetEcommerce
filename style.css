@@ -1,0 +1,8 @@
+.container{
+    margin-bottom:100px;
+}
+.carousel{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    display:flex;
+   justify-content: center;
