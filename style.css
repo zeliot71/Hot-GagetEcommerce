@@ -1,8 +1,40 @@
 .container{
-    margin-bottom:100px;
+    margin-bottom:150px;
+}
+.card-footer{
+    border-top: none;
+    background-color: #fff;
+}
+.card-body{
+    text-align: center;
+}
+.card-footer{
+    padding-bottom:20px ;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 15px lightgray;
+    padding: 30px 40px;
+    border-radius: 20px;
+}
+#categories .card{
+    padding-right: 50px;
+    margin: 10px;
+}
+body{
+    background-color: azure;
+}
+.footer{
+    text-align: center;
+    font-size: small;
+    margin-bottom: 20px;
 }
 .carousel{
-    background-image: url(images/bg-1.png);
-    background-repeat: no-repeat;
-    display:flex;
-   justify-content: center;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 20px;
+}
+.carousel-item{
+    margin-left: 20px;
+}
+ 
